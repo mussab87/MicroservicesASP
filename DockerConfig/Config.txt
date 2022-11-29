@@ -1,0 +1,3 @@
+Add windows feature:
+container - Hyper V 
+after that docker app will start working fine
